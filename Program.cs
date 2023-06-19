@@ -1,0 +1,3 @@
+﻿using RemoveExcelPassword;
+
+PasswordRemover.Run();
